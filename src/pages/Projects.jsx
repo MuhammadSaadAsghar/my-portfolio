@@ -11,8 +11,8 @@ const Projects = () => {
     desc: "Modern personal portfolio website built with React and Tailwind CSS.",
     image: portfolio,
     technologies: ["React", "Tailwind CSS"],
-    live: "#",
-    github: "#",
+    live: "https://muhammadsaadasghar.netlify.app/project",
+    github: "https://github.com/MuhammadSaadAsghar/my-portfolio",
   },
 
   {
