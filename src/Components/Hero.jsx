@@ -51,7 +51,7 @@ const Hero = () => {
             hover:bg-[#f4d88b] transition shadow-[0_0_20px_#d4af3755]
           "
           >
-            <a href="./My CV.pdf" download>Download CV</a>
+            <a href="./muhammad-saad-asghar-resuma.pdf" download>Download CV</a>
           </button>
           </div>
         <div className="flex flex-col py-1 gap-4 sm:mb-5">

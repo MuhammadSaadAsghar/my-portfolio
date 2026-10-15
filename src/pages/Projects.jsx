@@ -40,7 +40,7 @@ const Projects = () => {
     desc: "Clean business landing page focused on growth, services and profitability.",
     image: imagine,
     technologies: ["HTML", "CSS", "JavaScript"],
-    live: "#",
+    live: "business-growth-landing-page.netlify.app/",
     github:
       "https://github.com/MuhammadSaadAsghar/imagine-website-clone",
   },
