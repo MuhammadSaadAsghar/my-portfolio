@@ -16,7 +16,7 @@ const Hero = () => {
           className="flex-1 max-w-xl space-y-6"
         >
           <h4 className="text-[#d4af37] tracking-[4px] uppercase text-sm ">
-            Frontend Developer
+            Junior Frontend Developer
           </h4>
 
           <h1 className="text-5xl lg:text-6xl font-bold leading-tight">
@@ -27,7 +27,7 @@ const Hero = () => {
           </h1>
 
           <p className="text-gray-300 text-lg leading-relaxed">
-            I’m a passionate Frontend Developer specializing in{" "}
+            I’m a passionate Junior Frontend Developer specializing in{" "}
             <span className="text-[#d4af37]">React.js</span>,{" "}
             <span className="text-[#d4af37]">Tailwind CSS</span> and modern UI
             frameworks.
