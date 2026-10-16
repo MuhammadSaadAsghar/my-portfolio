@@ -213,7 +213,7 @@ const Resume = () => {
                 transition={{ duration: 0.5, delay: index * 0.1 }}
                 className="relative rounded-2xl border border-gray-800 bg-[#111827] p-5 sm:p-7"
               >
-                <span className="absolute -left-[31px] top-7 h-4 w-4 rounded-full border-4 border-black bg-[#F59E0B] sm:-left-[41px]" />
+                <span className="absolute -left-7.75 top-7 h-4 w-4 rounded-full border-4 border-black bg-[#F59E0B] sm:-left-10.25" />
 
                 <div className="flex flex-col justify-between gap-3 sm:flex-row sm:items-start">
                   <h3 className="text-lg font-bold leading-7 text-white sm:text-xl">
